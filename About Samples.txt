@@ -1,0 +1,3 @@
+For Sure this is not the whole dataset, in the zipped file you will find 2 images from each class to test the model 
+Dataset contains 3 Files : Training, Test, Validation. Each one of the contains on 7 folders each folder is for  specific disease.
+Training file contains 3087 images and both validation and test each one of the contains 1028 .
